@@ -1,0 +1,21 @@
+@media (min-width: 200px){
+    .slick-initialized .slick-slide {
+        margin-right: 10px;
+    }
+    .slider-img{
+        /* background-color: rgba(231, 0, 154, 0.986); */
+        height: 183px;
+        padding-left: 10px;
+    }
+    .box-story{
+        margin-top: 20px; 
+        margin-left: 10px;   
+    }
+    .title-head{
+        margin-left: 10px;;
+        font-weight: bold;
+    }
+    .slick-prev, .slick-next {
+        display: none !important;    
+    }
+}

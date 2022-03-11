@@ -1,0 +1,38 @@
+@media (min-width: 200px){
+    .box-news{
+        background-color: #EFFAFF;
+        padding: 20px 0px;
+    }
+    .box-news-sub .sub-news{
+        margin: 0px 20px 20px 20px;
+    }
+    .box-news div span{
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 150%;
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.01em;
+        color: #5F6368;
+    }
+    .form-control{
+        border: 1px solid #BDBDBD !important;
+        box-sizing: border-box;
+        border-radius: 10px !important;
+    }
+    .btn-news{
+        text-align: center;
+    }
+    .btn-news button{
+        width: 151px;
+        height: 45px;
+        background: linear-gradient(99.96deg, #FFD260 6.49%, #FF9900 92.13%);
+        box-shadow: 0px 6px 16px rgba(255, 182, 0, 0.16);
+        border-radius: 8px;
+        color: #fff;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 150%;
+    }
+}

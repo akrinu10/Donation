@@ -1,0 +1,11 @@
+@media (min-width: 200px){
+    .banner{
+        width: 100%;
+    }
+    .carousel-indicators {
+        display: none;
+      }
+      .carousel-control-next, .carousel-control-prev {
+          display: none;
+      }
+}

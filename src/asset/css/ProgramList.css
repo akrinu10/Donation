@@ -1,0 +1,73 @@
+@media (min-width: 200px){
+    .imgProgram{
+        width: 100%;
+        height: 133px;
+    }
+    .card-list{
+        margin: 5px 0px;
+    }
+    .bold{
+        font-weight: bold;
+    }
+    .box-list{
+        margin:20px;
+        padding-top: 20px;
+    }
+    .no-margin{
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+    .box-highlight{
+        padding-right: 10px;
+    }
+    .highlight{
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 150%;
+        letter-spacing: 0.01em;
+    }
+    .category-list{
+        margin: 8px 0px;
+        background-color: #FF6DA2;
+        display: flex;
+        width: 67px;
+        height: 19px;
+        border-radius: 24px;
+        padding: 2px 16px;
+        align-items: center;
+        justify-content: center;
+    }
+    .css-eglki6-MuiLinearProgress-root {
+        height: 8px !important;
+        border-radius: 11px;
+        background-color: rgb(219, 215, 215) !important;
+    }
+    .css-5xe99f-MuiLinearProgress-bar1 {
+        background-color: #ffa700 !important;
+    }
+    .right{
+        text-align: right;
+    }
+    .box-info{
+        margin: 5px 0px;
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+    .box-info .col-6{
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+    .opacity{
+        opacity: 50%;
+    }
+    .btn-load{
+        color: #FFB600;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 150%;
+    }
+
+}
